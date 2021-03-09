@@ -6,8 +6,13 @@ UCSD Cogs189 Finals Project | Brain Computer Interfaces
 
 Primary goal: Analysis of nicotine's interaction with brainwaves, monitored via Muse the brainsensing headband.
 
-Secondary goal: TBT
+Secondary goal: Nicotine's interaction with attention measure
 
-Tertiary goal: TBT
+Tertiary goal: 
 
-Stretch goal(s): Nueralink
+## Todo ##
+
+*Upload graphs
+*Upload pre-existing papers
+*Look for and isolate frequency domain
+*Find frequency change trends
