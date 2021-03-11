@@ -8,7 +8,7 @@ Primary goal: Analysis of nicotine's interaction with brainwaves, monitored via 
 
 Secondary goal: Nicotine's interaction with attention measure
 
-Tertiary goal: 
+Tertiary goal:
 
 ## Todo ##
 
