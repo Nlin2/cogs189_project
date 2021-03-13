@@ -1,9 +1,9 @@
 # ToDO #
 
 - []general
-    - [] change data segments to pre-intoxicated, intoxicated, post-intoxicated
-    - [] final visualization task
-    - [] add png's from mindmonitor to MD fields (in ReportTestVersion for now)
+  - [] change data segments to pre-intoxicated, intoxicated, post-intoxicated
+  - [] final visualization task
+  - [] add png's from mindmonitor to MD fields (in ReportTestVersion for now)
 
 - [] compare data in 3 parts (Session 5)
   - [x] part1 sober data collection
