@@ -2,3 +2,4 @@
 *.ipynb_checkpoints
 *.DS_Store
 src/data/session_four/_2021-03-10--03-38-49.csv
+src/ref/*

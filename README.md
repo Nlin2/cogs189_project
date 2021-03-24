@@ -7,3 +7,6 @@ UCSD Cogs189 Finals Project | Brain Computer Interfaces
 ## Nicotine vs Alpha Waves
 
 Hardware: Muse, the brain sensing headband
+
+Please unzip session four's data.
+
